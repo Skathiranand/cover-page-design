@@ -8,19 +8,21 @@ To design a static web site for a book cover page.
 
 ### Step 1:
 
+Clone the GitHub repository.
 
 ### Step 2:
 
+Create a Django Admin interface.
 
 ### Step 3:
 
+Write the HTML code with relevant CSS properties.
 
 ### Step 4:
 
+Choose the appropriate style and color scheme.
 
 ### Step 5:
-
-### Step 6:
 
 Validate the HTML and CSS code.
 
